@@ -537,7 +537,7 @@ footer .col h3 {
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 440px) {
   #Ironing {
     display: flex;
     justify-content: center;
